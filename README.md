@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @github4vikas
+- 👋 Hi, I’m Vikas
 - 👀 I’m interested in learning Cloud Architecture and help business's grow and expand
 - 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on a range of different projects related to devops
